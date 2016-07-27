@@ -1,0 +1,2 @@
+# Dailyshop
+master repo
